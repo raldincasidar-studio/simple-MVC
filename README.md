@@ -28,7 +28,6 @@ This is the backend API for the **JRMSU SSG Election System**, built with PHP an
    ```bash
    git clone https://github.com/yourusername/JSSP.git
    cd JSSP
-````
 
 2. **Install dependencies (if any are defined)**
 
